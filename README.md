@@ -1,2 +1,2 @@
 A primitive WinLocker virus
-you can troll your friends with this virus!
+you can troll your friends!
